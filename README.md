@@ -2,6 +2,6 @@
 
 # What is it?
 
-_The required project of first-year - first semester - faculty of computers and information FCI - Fayoum university_
+_Trip Booking App_
 
-# <img src="./Screen Recording 2022-02-23 at 11.05.07 PM.gif" alt="drawing" width="500" height="900" /> [Facebook Profile]
+# <img src="./Screen Recording 2022-02-23 at 11.05.07 PM.gif" alt="drawing" width="500" height="900" /> 
