@@ -1,16 +1,7 @@
-# flutter_cubit
+# <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="drawing" width="30" height="30" /> [Facebook Profile](https://www.facebook.com/profile.php?id=100006473238307)
 
-A new Flutter project.
+# What is it?
 
-## Getting Started
+_The required project of first-year - first semester - faculty of computers and information FCI - Fayoum university_
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# <img src="./Screen Recording 2022-02-23 at 11.05.07 PM.gif" alt="drawing" width="500" height="900" /> [Facebook Profile]
